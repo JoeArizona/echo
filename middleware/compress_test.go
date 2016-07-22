@@ -2,7 +2,7 @@ package middleware
 
 import (
 	"bytes"
-	"compress/gzip"
+	"github.com/klauspost/compress/gzip"
 	"net/http"
 	"testing"
 
