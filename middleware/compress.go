@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"compress/gzip"
+	"https://github.com/klauspost/compress"
 	"io"
 	"io/ioutil"
 	"net/http"
